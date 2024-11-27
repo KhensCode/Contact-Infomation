@@ -1,0 +1,152 @@
+html{
+    background-color: #E5E1DA;
+}
+.container{
+    width:430px;
+    height:400px;
+    margin-left: 430px;
+    margin-top: 60px;
+    max-height: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 18px;
+    padding-right: 20px;
+    padding-left: 18px;
+    box-shadow: 1px 1px 1px grey;
+    background-color: #FEFBF6;
+}
+.head-1{
+font-size: 14px;
+
+}
+.Head-2{
+    font-size: 12px;
+    opacity: 0.4;
+    float:right;
+margin-top: -23px;
+}
+.Container-2 {
+    width:429px;
+    border-radius: 15px;
+    height:90px;
+    border-color: rgb(190, 190, 190);
+    border-style: dotted;
+   
+}
+.List {
+    width:40px;
+    height:48px;
+font-size: 29px;
+    margin-left: 22px;
+  
+  
+   margin-top: 12px;
+  
+   align-self: center;
+   justify-content: center;
+   
+   
+  
+  
+}
+.bx.bx-location-plus {
+    border: 1px solid #808080; 
+    width: 42px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: -17px;
+    background-color: transparent;
+}
+.bx.bx-briefcase{
+    border: 1px solid #808080; 
+    width: 42px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 4px;
+    background-color: transparent;
+}
+.bx.bx-navigation{
+    border: 1px solid #808080; 
+    width: 42px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 4px;
+    background-color: transparent;
+}
+.Email {
+    font-size: 10px;
+    margin-left: 63px;
+    margin-top: -44px;
+
+}
+.Specialty {
+    font-size: 10px;
+    margin-left: 63px;
+    margin-top: -44px;
+}
+.ID {
+    font-size: 10px;
+    margin-left: 63px;
+    margin-top: -10px;
+
+   
+}
+.Head-4 {
+    font-size: 10px;
+    margin-left: 42px;
+    margin-top: -44px;
+}
+
+
+img{
+    width:40px;
+    height:48px;
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 3cm;
+}
+.Place{
+    font-size: 10px;
+    margin-left: 42px;
+    margin-top: -10px;
+   
+    
+}
+.head-3 {
+    font-size: 14px;
+    margin-left: 80px;
+    margin-top: -45px;
+}
+.Bio{
+    font-size: 14px;
+    margin-left: 80px;
+    margin-top: -6px;
+    opacity: 0.7;
+}
+.bx.bx-plus {
+   font-size: 25px;
+   width:27px;
+   display: flex;
+   height:29px;
+   align-self: center;
+   justify-content: center;
+   margin-top: -52px;
+   color:brown;
+    border-top-left-radius: 9px;
+    border-radius: 9px;
+   cursor: pointer;
+
+    background-color: #FFE3E3;
+    margin-left: 380px;
+    
+}
+
